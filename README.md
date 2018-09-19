@@ -17,6 +17,10 @@ ARKitを用いて認識したアイコンの周りにオブジェクトやUIを�
 読み込むアイコン(ARマーカーと言います)や出現させるImageAnchorを適当に変更してやることで、自分なりのカスタマイズができる...はずです。  
 ただしXcodeでのビルド時には下図のように自身のiOS端末に合わせた設定にしておかないと、ビルドには成功してもアプリが正常に動かない可能性があります。  
 
+<p align="center">
+  <img src="xcodeimage.png">
+</p>
+
 ## 作成手順
 ### 1. 読み込むARマーカーをインポートする
 1. Assets/UnityARKitPlugin/Examples/ARKit1.5/UnityARImageAnchor/ReferenceImages配下にARマーカーとなる画像をインポートします。
