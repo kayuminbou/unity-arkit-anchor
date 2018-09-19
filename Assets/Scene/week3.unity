@@ -435,7 +435,6 @@ GameObject:
   m_Component:
   - component: {fileID: 925273666}
   - component: {fileID: 925273667}
-  - component: {fileID: 925273668}
   m_Layer: 0
   m_Name: GenerateImageAnchor
   m_TagString: Untagged
@@ -468,19 +467,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   referenceImage: {fileID: 11400000, guid: c44e5f187ec8f4dd0b108b5ff01076b4, type: 2}
-  prefabToGenerate: {fileID: 1541310854115740, guid: 2d6adbdb3ae2c427aaab26f008f6c53f,
+  prefabToGenerate: {fileID: 1075269680869356, guid: be576edb3f3f649e4a661c895d463366,
     type: 2}
---- !u!114 &925273668
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 925273665}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25d6325d1b830407db6483d927a350fa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &985089623
 GameObject:
   m_ObjectHideFlags: 0
