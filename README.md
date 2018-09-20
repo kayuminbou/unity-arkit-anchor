@@ -2,6 +2,10 @@
 ## 概要
 ARKitを用いて認識したアイコンの周りにオブジェクトやUIを表示させるアプリです。  
 
+<p align="center">
+  <img src="demo.gif" width="266">
+</p>
+
 ## 開発環境
 - Unity v2018.2.3f1
 - Apple Xcode 9.4.1
