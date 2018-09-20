@@ -4,8 +4,13 @@ using UnityEngine;
 
 public class OpenUrlScript : MonoBehaviour {
     
-    public void OpenUrl()
+    public void OpenGithubUrl()
     {
         Application.OpenURL("https://github.com/kayuminbou");
+    }
+
+    public void OpenTwitterUrl()
+    {
+        Application.OpenURL("https://twitter.com/kayumi_sec");
     }
 }
